@@ -6,6 +6,14 @@ This project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html
 
 ## Next
 
+## 1.22.0.1
+
+Forked to https://github.com/ManageIQ/fog-google
+
+#### Fixed
+- [#4](https://github.com/ManageIQ/fog-google/pull/4) - Fix missing paging on models' `#all` methods
+- [#2](https://github.com/ManageIQ/fog-google/pull/2) - Use `Minitest::Test` instead of `MiniTest::Test`
+
 ## 1.22.0
 
 ### User-facing
